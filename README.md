@@ -6,6 +6,8 @@
 
 ## Theory
 - https://medium.com/@arshren/an-intuitive-guide-to-fine-tuning-large-language-model-a52958c24785
+- https://medium.com/@abonia/llm-series-parameter-efficient-fine-tuning-e9839fae44ac
+- https://www.youtube.com/watch?v=Us5ZFp16PaU&ab_channel=SamWitteveen
 
 ## Reference List
 - https://towardsai.net/p/machine-learning/fine-tuning-a-llama-2-7b-model-for-python-code-generation
